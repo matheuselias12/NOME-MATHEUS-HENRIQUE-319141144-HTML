@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(241, 237, 237, 0.933);
+}
+input{
+    border: none;
+    height: 25px;
+    width: auto;
+    border-radius: 2px;
+}
+label{
+    font-weight: bold;
+}
+th{
+    background-color: #00cccc;
+    height: 35px;
+    width: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+tr{
+    height: 35px;
+    width: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999999;     
+}
+table{
+    text-align: center;
+    cursor: pointer;
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid #EEEEEE;
+    font-family: Arial;
+    font-size: 12px;
+    margin-right: auto;
+    box-shadow: 
+        0px 0px 0px rgba(0,0,0,0.10),
+        0px 10px 20px rgba(0,0,0,0.05),
+        0px 20px 30px rgba(0,0,0,0.05),
+        0px 30px 20px rgba(0,0,0,0.05);
+}
+a:link {
+    border-top: 20px;    
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+.bt {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700; 
+    border: none;
+    height: 25px;
+    border-radius: 5px;  
+}
+p {
+    font-family: Arial, Helvetica, sans-serif
+}
+.increva-se{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    border-radius: 15px;
+    font-weight: 700; 
+
+}
